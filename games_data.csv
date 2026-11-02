@@ -1,0 +1,21 @@
+player_name,player_age,game_name,game_type,score,play_date,tournament_name,tournament_location,tournament_date
+Alice,22,Chess,Board,85,2024-01-11,New Year Cup,Miami,2024-01-15
+Bob,25,Checkers,Board,78,2024-01-11,New Year Cup,Miami,2024-01-15
+Charlie,30,Scrabble,Board,90,2024-01-12,New Year Cup,Miami,2024-01-15
+Diana,28,Monopoly,Board,70,2024-01-13,New Year Cup,Miami,2024-01-15
+Ethan,35,Dominoes,Board,88,2024-01-14,New Year Cup,Miami,2024-01-15
+Fiona,20,Uno,Card,95,2024-01-15,New Year Cup,Miami,2024-01-15
+George,40,Poker,Card,60,2024-01-16,January Open,Boston,2024-01-29
+Hannah,27,Soccer,Outdoor,72,2024-01-17,January Open,Boston,2024-01-29
+Ian,33,Basketball,Outdoor,99,2024-01-18,January Open,Boston,2024-01-29
+Julia,24,Tennis,Outdoor,55,2024-01-19,January Open,Boston,2024-01-29
+Alice,22,Checkers,Board,80,2024-01-20,January Open,Boston,2024-01-29
+Bob,25,Scrabble,Board,92,2024-01-21,January Open,Boston,2024-01-29
+Charlie,30,Monopoly,Board,65,2024-01-22,January Open,Boston,2024-01-29
+Diana,28,Dominoes,Board,77,2024-01-23,January Open,Boston,2024-01-29
+Ethan,35,Uno,Card,89,2024-01-24,January Open,Boston,2024-01-29
+Fiona,20,Poker,Card,58,2024-01-25,January Open,Boston,2024-01-29
+George,40,Soccer,Outdoor,73,2024-01-26,January Open,Boston,2024-01-29
+Hannah,27,Basketball,Outdoor,81,2024-01-27,January Open,Boston,2024-01-29
+Ian,33,Tennis,Outdoor,94,2024-01-28,January Open,Boston,2024-01-29
+Julia,24,Chess,Board,69,2024-01-29,January Open,Boston,2024-01-29
